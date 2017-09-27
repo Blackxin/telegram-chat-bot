@@ -1,0 +1,14 @@
+{
+  "name": "telegram-chat-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mikhail Semin",
+  "license": "MIT",
+  "dependencies": {
+    "telegraf": "^3.10.1"
+  }
+}
